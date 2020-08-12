@@ -1,0 +1,7 @@
+D:\Code\ImagesDataes\MRSI_Datasets\33-pair3-1.jpg
+D:\Code\ImagesDataes\MRSI_Datasets\33-pair3-2.jpg
+5
+4
+1300
+D:/Code/MSRISystemV1/save_image/Result.jpg
+D:/Code/MSRISystemV1/save_image/KeyResult.txt
