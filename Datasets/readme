@@ -1,1 +1,7 @@
-
+Datasets
+(pair1-1--pair1-2)------optical-optical
+(pair2-1--pair2-2)------infrared-optical
+(pair3-1--pair3-2)------depth-optical
+(pair4-1--pair4-2)------map-optical
+(pair5-1--pair5-2)------SAR-optical
+(pair6-1--pair6-2)------night-day
