@@ -1,7 +1,7 @@
-CoFSM Executable
+                                                                   CoFSM Executable
 Paper: "CoFSM:Multi-modal Remote Sensing Image Matching Considering Co-occurrence Filter"
 Code:
- 0. Introduction of code packages:
+ 0. Introduction of executable program packages:
 
      The code is closed under the matlab r2018a version.
       CoFSM.exe in the“for_redistribution_files_only”folder and “CoFSM.exe”are an executable program.
@@ -16,6 +16,12 @@ Code:
 	>> The 6 line is the saved matching results;(Custom path)
 	>> The 7 line is the Corresponding point file of the matching result.(Custom path)
 
+	>>Running CoFSM.exe
+	-- Open  CMD.exe
+	  firstly, input "CoFSM.exe";
+	  then,    input "Parameters.txt"
+	-- Click on "Enter".
+    --------------------------------------------------------------------------------------------------
     (2) If you have not installed matlab, please refer to 1 and the following introduction.
     The MyAppInstaller_mcr.exe in the "for_redistribution" folder is the MCR installation package.
 
